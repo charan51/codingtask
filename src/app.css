@@ -1,0 +1,23 @@
+.App {
+    display: flex;
+    align-items: normal;
+    justify-content: center;
+    flex-direction: column;
+    flex-flow: column;
+
+}
+.headerContainer{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.EmployeeDetailsContainer{
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+}
+.ms-Spinner.root-82 {
+    top: 100px;
+    position: absolute;
+    left: 45%;
+}
